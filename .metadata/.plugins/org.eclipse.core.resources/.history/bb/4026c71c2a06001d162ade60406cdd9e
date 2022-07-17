@@ -1,0 +1,5 @@
+package com.devsuperior.backend.controller;
+
+public class SaleController {
+
+}

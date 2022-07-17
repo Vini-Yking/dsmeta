@@ -1,0 +1,5 @@
+package com.devsuperior.backend.repository;
+
+public interface SaleRepository {
+
+}
