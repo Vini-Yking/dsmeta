@@ -1,0 +1,5 @@
+package com.devsuperior.backend.entities;
+
+public class Sale {
+
+}
