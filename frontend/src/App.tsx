@@ -1,7 +1,12 @@
+import NotificationButton from "./components/NotificationButton"
+
 const App = () => {
 
   return (
-    <h1>hello world</h1>
+    <>
+      <h1>hello world</h1>
+      <NotificationButton />
+    </>
   )
 }
 
